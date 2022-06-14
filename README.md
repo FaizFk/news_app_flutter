@@ -1,16 +1,12 @@
 # news_app
 
-A new Flutter project.
+Flutter app to read 22 latest and trending news no adds, no external links, no crap just simple news to keep you updated...
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Disclaimer: The app is used only for personal use, I don't take responsibility of any api trespassing any regulations if any...Also this may not work properly on web
 
-A few resources to get you started if this is your first Flutter project:
+[Download Apk](https://drive.google.com/file/d/1FS_3Y6-h7REH5xBZXG3MnrNcImDYRDFv/view?usp=sharing)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/FaizFk/news_app_flutter/blob/main/Screenshots/Screenshot%20(13).png?raw=true" height=50% width=50%>
+
