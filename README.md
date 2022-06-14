@@ -8,5 +8,5 @@ Disclaimer: The app is used only for personal use, I don't take responsibility o
 [Download Apk](https://drive.google.com/file/d/1FS_3Y6-h7REH5xBZXG3MnrNcImDYRDFv/view?usp=sharing)
 
 
-<img src="https://github.com/FaizFk/news_app_flutter/blob/main/Screenshots/Screenshot%20(13).png?raw=true" height=50% width=50%>
+<img src="https://github.com/FaizFk/news_app_flutter/blob/main/Screenshots/Screenshot%20(13).png?raw=true">
 
